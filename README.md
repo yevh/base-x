@@ -8,7 +8,7 @@
 Fast base encoding / decoding of any given alphabet using bitcoin style leading
 zero compression.
 
-**WARNING:** This module is **NOT RFC3548** compliant,  it cannot be used for base16 (hex), base32, or base64 encoding in a standards compliant manner. 
+**WARNING:** This module is **NOT RFC3548** compliant,  it cannot be used for base16 (hex), base32, or base64 encoding in a standards compliant manner. .
 
 ## Example
 
